@@ -1,0 +1,8 @@
+.my-custom-toggle {
+    background-color: white;
+    color: #495057;
+  }
+  .btn:hover + .dropdown-menu,
+  .dropdown-menu:hover {
+    display: block !important;
+  }  
